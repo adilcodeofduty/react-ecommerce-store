@@ -10,7 +10,7 @@ filtering, product details, cart management, and persistent cart data.
 
 > Add your Vercel deployment URL here.
 
-**Live:** `https://your-vercel-url.vercel.app`
+**Live:** `https://react-ecommerce-store-f2mu.vercel.app/`
 
 ---
 
@@ -18,7 +18,7 @@ filtering, product details, cart management, and persistent cart data.
 
 ### Home Page
 
-![alt text](image.png)
+https://react-ecommerce-store-f2mu.vercel.app/
 
 ### Products Listing
 
@@ -218,7 +218,7 @@ Route Page
 Clone the repository:
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/adilcodeofduty/react-ecommerce-store.git>
 ```
 
 Go to the project folder:
