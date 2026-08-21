@@ -18,22 +18,11 @@ filtering, product details, cart management, and persistent cart data.
 
 ### Products Listing
 
-![alt text](image-1.png)
+![alt text](products-list.png)
 
 ### Product Details
 
-![alt text](image-2.png)
-
-### Shopping Cart
-
-![alt text](image-3.png)
-
-### Mobile Responsive View
-
-![alt text](image-4.png)
-
-> Create a `public/screenshots` folder and add the screenshots using the
-> filenames above.
+![alt text](product-details.png)
 
 ---
 
