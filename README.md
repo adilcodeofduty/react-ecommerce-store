@@ -8,17 +8,13 @@ filtering, product details, cart management, and persistent cart data.
 
 ## 🚀 Live Demo
 
-> Add your Vercel deployment URL here.
-
-**Live:** `https://react-ecommerce-store-f2mu.vercel.app/`
-
----
+**Vercel:** https://react-ecommerce-store-f2mu.vercel.app
 
 ## 📸 Screenshots
 
 ### Home Page
 
-https://react-ecommerce-store-f2mu.vercel.app/
+![alt text](home.png)
 
 ### Products Listing
 
